@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\DilemaDasMoedas.exe
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\DilemaDasMoedas.deps.json
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\DilemaDasMoedas.runtimeconfig.json
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\DilemaDasMoedas.dll
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\ref\DilemaDasMoedas.dll
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\bin\Debug\net6.0\DilemaDasMoedas.pdb
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.dll
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\ref\DilemaDasMoedas.dll
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.pdb
+C:\Users\Aluno\Desktop\21_10 AulaThiago\DilemaDasMoedas\obj\Debug\net6.0\DilemaDasMoedas.genruntimeconfig.cache
